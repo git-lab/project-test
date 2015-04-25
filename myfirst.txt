@@ -1,1 +1,9 @@
 init1
+init2
+
+def naren():
+ print 1
+
+def kathir():
+ print 2
+init3
