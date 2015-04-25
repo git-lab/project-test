@@ -1,3 +1,7 @@
 init1
+<<<<<<< HEAD
 
 init3
+=======
+init2
+>>>>>>> origin/bug
