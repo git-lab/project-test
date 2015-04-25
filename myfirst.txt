@@ -6,3 +6,4 @@ def naren():
 
 def kathir():
  print 2
+init3
