@@ -6,6 +6,7 @@ newwwline
 dasdnsakdnsakn
 <<<<<<< HEAD
 bhargav1
+int 1323
 =======
 added a line - phani -- added some more text.
 >>>>>>> origin/feature
