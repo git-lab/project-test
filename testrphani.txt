@@ -4,4 +4,8 @@ check bnhargav
 second changes 
 newwwline
 dasdnsakdnsakn
+<<<<<<< HEAD
 bhargav1
+=======
+added a line - phani
+>>>>>>> origin/feature
